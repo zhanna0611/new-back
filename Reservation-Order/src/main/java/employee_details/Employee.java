@@ -39,6 +39,6 @@ public class Employee implements Serializable {
         this.phone_number = phone_number;
     }
 
-    public Employee() {
+    public Employee(String not_available, String notAvailable, int i) {
     }
 }
