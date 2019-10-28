@@ -3,7 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CLIENT_REST 2 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/menu-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/menu_service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/order-detail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/order-detail/https:/bitbucket.org/Zhanna0611/restaurant_bill_management_system" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/order_details" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/order_details/https:/bitbucket.org/Zhanna0611/restaurant_bill_management_system" vcs="Git" />
   </component>
